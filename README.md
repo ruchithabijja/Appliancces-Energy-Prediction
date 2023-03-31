@@ -1,2 +1,2 @@
-# Appliancces-Energy-Prediction
-Appliancces Energy Prediction
+# Appliances-Energy-Prediction
+Appliances Energy Prediction
